@@ -18,8 +18,11 @@ data.txt – input file with passengers and count of siats
 Emxample:
 ```
 4 4
-1W 2 3 456 7 8
-9 10 11W 12W
+1W 2 3
+4 5 6 7
+8
+9 10 11W
+12W
 13 14
 15 16
 ```
